@@ -1,1 +1,1 @@
-4667a2f8 atlas_scale=0.5
+7003df9d atlas_scale=0.5
