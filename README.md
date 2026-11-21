@@ -2,6 +2,6 @@
 
 Exported Godot 4.7.2 web build only (no source). Single-player vs bots, runs entirely in the browser; single-threaded export, so no COOP/COEP headers are needed.
 
-Play: https://rainboltz.github.io/lights-out-web/ (desktop Chrome / Edge recommended; BPTC textures). Default view is the 3/4 angled camera (`--view=angled`); add `?view=topdown` for the flat top-down view. Add `?debug=1` for an fps / sim tick-rate readout.
+Play: https://rainboltz.github.io/lights-out-web/ (desktop Chrome / Edge recommended; BPTC textures). Default view is top-down; add `?view=angled` to try the 3/4 angled camera (under QA, not final). Add `?debug=1` for an fps / sim tick-rate readout.
 
 Build: see BUILD_COMMIT.txt.
